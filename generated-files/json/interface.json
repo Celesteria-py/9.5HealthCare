@@ -1,0 +1,70 @@
+{
+  "QPushButton": [
+    {
+      "name": "minimizeBtn",
+      "icon": "Qss/icons/icons/feather/window_minimize.png"
+    },
+    {
+      "name": "restoreBtn",
+      "icon": "Qss/icons/icons/feather/square.png"
+    },
+    {
+      "name": "closeBtn",
+      "icon": "Qss/icons/icons/feather/window_close.png"
+    },
+    {
+      "name": "menu",
+      "icon": "Qss/icons/icons/feather/menu.png"
+    },
+    {
+      "name": "homePage",
+      "icon": "Qss/icons/icons/feather/home.png"
+    },
+    {
+      "name": "profilePage",
+      "icon": "Qss/icons/icons/feather/user.png"
+    },
+    {
+      "name": "surveyPage",
+      "icon": "Qss/icons/icons/font_awesome/regular/newspaper.png"
+    },
+    {
+      "name": "analysisPage",
+      "icon": "Qss/icons/icons/font_awesome/solid/list-ul.png"
+    },
+    {
+      "name": "setting",
+      "icon": "Qss/icons/icons/feather/settings.png"
+    },
+    {
+      "name": "information",
+      "icon": "Qss/icons/icons/feather/info.png"
+    },
+    {
+      "name": "help",
+      "icon": "Qss/icons/icons/feather/help-circle.png"
+    },
+    {
+      "name": "closeSetting",
+      "icon": "Qss/icons/icons/feather/x-circle.png"
+    },
+    {
+      "name": "pushButton_15",
+      "icon": "Qss/icons/icons/feather/window_grip.png"
+    }
+  ],
+  "QLabel": [
+    {
+      "name": "label_16",
+      "pixmap": "Qss/icons/icons/font_awesome/regular/circle-user.png"
+    },
+    {
+      "name": "label_18",
+      "pixmap": "Qss/icons/icons/font_awesome/regular/circle-user.png"
+    },
+    {
+      "name": "logo",
+      "pixmap": "C:\\rtAIEngineer\\Projects\\95Health\\Qss\\icons\\logo.png"
+    }
+  ]
+}

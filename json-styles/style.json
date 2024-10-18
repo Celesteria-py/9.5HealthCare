@@ -1,0 +1,117 @@
+{
+  "ShowLogs": true,
+  "liveCompileQss": true,
+  "CheckForMissingicons": false,
+  "QMainWindow": [
+    {
+      "tittle": "95health",
+      "frameless": true,
+      "transluscentBg": true,
+      "sizeGrip": "sizeGrip",
+      "navigation": [
+        {
+          "minimize": "minimizeBtn",
+          "moveWindow": "header",
+          "tittleBar": "header",
+          "restore": [
+            {
+              "buttonName": "restoreBtn"
+            }
+          ],
+          "close": "closeBtn"
+        }
+      ]
+    }
+  ],
+  "QCustomSlideMenu": [
+    {
+      "name": "inLeftMenu",
+      "defaultSize": [
+        {
+        "width": 0,
+        "height": "parent"
+        }
+      ],
+      "collapsedSize": [
+        {
+          "width": 0,
+          "height": "parent"
+        }
+      ],
+      "expandedSize": [
+        {
+          "width": 131,
+          "height": "parent"
+        }
+      ],
+      "menuTransitionAnimation": [
+        {
+          "animationDuration": 200,
+          "animationEasingCurve": "Linear"
+        }
+      ]
+    },
+    {
+      "name": "leftMenu",
+      "defaultSize": [
+        {
+          "width": 40,
+          "height": "parent"
+        }
+      ],
+      "collapsedSize": [
+        {
+          "width": 40,
+          "height": "parent"
+        }
+      ],
+      "expandedSize": [
+        {
+          "width": 160,
+          "height": "parent"
+        }
+      ],
+      "menuTransitionAnimation": [
+        {
+          "animationDuration": 500,
+          "animationEasingCurve": "Linear"
+        }
+      ],
+      "toggleButton": [
+        {
+          "buttonName": "menu",
+          "icons": [
+			  {
+				"whenMenuIsCollapsed": ":/feather/icons/feather/menu.png",
+				"whenMenuIsExpanded": ":/feather/icons/feather/arrow-left-circle.png"
+              }
+          ]
+        }
+      ]
+    }
+  ],
+  "QSettings": [
+    {
+      "ThemeSettings": [
+        {
+          "CustomTheme": [
+            {
+              "Background-color": "#000000",
+              "Text-color": "#FFFFFF",
+              "Accent-color": "#FFFFFF",
+              "Icons-color": "#FFFFFF",
+              "Theme-name": "Default-theme",
+              "Default-Theme": true
+            }
+          ]
+        }
+      ],
+      "AppSettings": {
+        "OrginizationName": "95health",
+        "ApplicationName": "9.5HealthCare",
+        "OrginizationDormain": "95health.org"
+      }
+    }
+  ],
+  "QtBinding": "PySide6"
+}
