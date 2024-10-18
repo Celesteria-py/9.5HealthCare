@@ -1,2 +1,5 @@
 PySide6
 QT-PyQt-PySide-Custom-Widgets
+markdown2
+cairosvg
+google-generativeai
